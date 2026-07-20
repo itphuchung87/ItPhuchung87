@@ -1,8 +1,8 @@
 # 👋 Hi, I'm ITPhucHung87
 
-[![Facebook Follow]([https://www.facebook.com/itphuchung87/)](https://www.facebook.com/itphuchung87/)
-[![GIT](https://github.com/itphuchung87/ItPhuchung87)](https://github.com/itphuchung87/ItPhuchung87)
-[![X](https://x.com/itphuchung87)]([https://www.virtualizationhowto.com](https://x.com/itphuchung87))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/itphuchung87/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itphuchung87/ItPhuchung87)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itphuchung87))
 
 ### 💼 IT Manager & Systems Architect
 
